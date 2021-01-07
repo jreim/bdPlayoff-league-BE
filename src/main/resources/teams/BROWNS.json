@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Mayfield",
+    "position": "QB"
+  },
+  {
+    "name": "Chubb",
+    "position": "RB"
+  },
+  {
+    "name": "Hunt",
+    "position": "RB"
+  },
+  {
+    "name": "Landry",
+    "position": "WR"
+  },
+  {
+    "name": "Hodge",
+    "position": "WR"
+  },
+  {
+    "name": "Higgins",
+    "position": "WR"
+  },
+  {
+    "name": "Hall",
+    "position": "WR"
+  },
+  {
+    "name": "Hollins",
+    "position": "WR"
+  },
+  {
+    "name": "Bradley",
+    "position": "WR"
+  },
+  {
+    "name": "HooperNjoku",
+    "position": "TE"
+  },
+  {
+    "name": "Njoku",
+    "position": "TE"
+  },
+  {
+    "name": "Parkey",
+    "position": "K"
+  },
+  {
+    "name": "BROWNS",
+    "position": "DST"
+  }
+]

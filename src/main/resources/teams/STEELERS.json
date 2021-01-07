@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Roethlisberger",
+    "position": "QB"
+  },
+  {
+    "name": "McFarland",
+    "position": "RB"
+  },
+  {
+    "name": "Conner",
+    "position": "RB"
+  },
+  {
+    "name": "Snell",
+    "position": "RB"
+  },
+  {
+    "name": "Smith-Schuster",
+    "position": "WR"
+  },
+  {
+    "name": "Claypool",
+    "position": "WR"
+  },
+  {
+    "name": "Diontae Johnson",
+    "position": "WR"
+  },
+  {
+    "name": "Ebron",
+    "position": "TE"
+  },
+  {
+    "name": "McDonald",
+    "position": "TE"
+  },
+  {
+    "name": "Wright",
+    "position": "K"
+  },
+  {
+    "name": "Boswell",
+    "position": "K"
+  },
+  {
+    "name": "STEELERS",
+    "position": "DST"
+  }
+]

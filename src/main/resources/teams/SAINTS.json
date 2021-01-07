@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Brees",
+    "position": "QB"
+  },
+  {
+    "name": "Taysom.Hill",
+    "position": "QB"
+  },
+  {
+    "name": "Kamara",
+    "position": "RB"
+  },
+  {
+    "name": "Montgomery",
+    "position": "RB"
+  },
+  {
+    "name": "Emanual Sanders",
+    "position": "WR"
+  },
+  {
+    "name": "Juwan Johnson",
+    "position": "WR"
+  },
+  {
+    "name": "Marquez Callaway",
+    "position": "WR"
+  },
+  {
+    "name": "Cook",
+    "position": "TE"
+  },
+  {
+    "name": "Lutz",
+    "position": "K"
+  },
+  {
+    "name": "SAINTS",
+    "position": "DST"
+  }
+]

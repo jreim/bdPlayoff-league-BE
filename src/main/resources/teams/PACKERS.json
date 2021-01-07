@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Rodger",
+    "position": "QB"
+  },
+  {
+    "name": "Aaron.Jones",
+    "position": "RB"
+  },
+  {
+    "name": "Jamaal.Williams",
+    "position": "RB"
+  },
+  {
+    "name": "Davante Adams",
+    "position": "WR"
+  },
+  {
+    "name": "St. Brown",
+    "position": "WR"
+  },
+  {
+    "name": "Valdes-Scantling",
+    "position": "WR"
+  },
+  {
+    "name": "Lazard",
+    "position": "WR"
+  },
+  {
+    "name": "Tonyan",
+    "position": "TE"
+  },
+  {
+    "name": "Lewis",
+    "position": "TE"
+  },
+  {
+    "name": "Crosby",
+    "position": "K"
+  },
+  {
+    "name": "PACKERS",
+    "position": "DST"
+  }
+]

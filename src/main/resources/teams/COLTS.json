@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Rivers",
+    "position": "QB"
+  },
+  {
+    "name": "McFarland",
+    "position": "RB"
+  },
+  {
+    "name": "Taylor",
+    "position": "RB"
+  },
+  {
+    "name": "Hines",
+    "position": "RB"
+  },
+  {
+    "name": "Hilton",
+    "position": "WR"
+  },
+  {
+    "name": "Pittman",
+    "position": "WR"
+  },
+  {
+    "name": "Patmon",
+    "position": "WR"
+  },
+  {
+    "name": "Dulin",
+    "position": "WR"
+  },
+  {
+    "name": "Pascal",
+    "position": "WR"
+  },
+  {
+    "name": "Doyle",
+    "position": "TE"
+  },
+  {
+    "name": "Burton",
+    "position": "TE"
+  },
+  {
+    "name": "Blankenship",
+    "position": "K"
+  },
+  {
+    "name": "COLTS",
+    "position": "DST"
+  }
+]

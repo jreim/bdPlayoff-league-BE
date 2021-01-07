@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Wilson",
+    "position": "QB"
+  },
+  {
+    "name": "Carson",
+    "position": "RB"
+  },
+  {
+    "name": "Penny",
+    "position": "RB"
+  },
+  {
+    "name": "JMetcalf",
+    "position": "WR"
+  },
+  {
+    "name": "Lockett",
+    "position": "WR"
+  },
+  {
+    "name": "Metcalf",
+    "position": "WR"
+  },
+  {
+    "name": "Moore",
+    "position": "WR"
+  },
+  {
+    "name": "Dorsett",
+    "position": "WR"
+  },
+  {
+    "name": "Willson",
+    "position": "TE"
+  },
+  {
+    "name": "Dissly",
+    "position": "TE"
+  },
+  {
+    "name": "Jason.Myers",
+    "position": "K"
+  },
+  {
+    "name": "PATRIOTS",
+    "position": "DST"
+  }
+]

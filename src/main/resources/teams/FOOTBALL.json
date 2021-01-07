@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Alex Smith",
+    "position": "QB"
+  },
+  {
+    "name": "Gibson",
+    "position": "RB"
+  },
+  {
+    "name": "McKissic",
+    "position": "RB"
+  },
+  {
+    "name": "McLaurin",
+    "position": "WR"
+  },
+  {
+    "name": "Cam Sims",
+    "position": "WR"
+  },
+  {
+    "name": "Steven Sims Jr.",
+    "position": "WR"
+  },
+  {
+    "name": "Logan Thomas",
+    "position": "TE"
+  },
+  {
+    "name": "Dustin Hopkins",
+    "position": "K"
+  },
+  {
+    "name": "FOOTBALL",
+    "position": "DST"
+  }
+]
